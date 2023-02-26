@@ -1,4 +1,4 @@
-# Projeto de boas práticas com o DynamoDB
+# Projeto de boas práticas com o DynamoDB (Bootcamp Banco Pan - DIO)
 
 <p>Inserção e criação de itens/index para a tabela </p>
 
